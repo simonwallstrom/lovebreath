@@ -4,12 +4,11 @@
 
 #  This file can be accessed using: {{ site.title }}
 
-title: "Lovebreath" # Appears after the title Page eg. Title - Web Starter
-description: "Minimal boilerplate for new projects built with Eleventy, Tailwind, PurgeCSS and PostCSS" 
-url: "https://webstarter.chriscollins.me"
+title: "Få en attraktivare andedräkt" # Appears after the title Page eg. Title - Web Starter
+description: "Lovebreath"
+url: "lovebreath.se"
 
-author: "Chris Collins"
+author: "Simon Wallström"
 meta_data: 
- twitter: "@scottishstoater"
- default_social_image: "/static/default_social_image.jpg"
+ twitter: "@simonwallstrom"
 
